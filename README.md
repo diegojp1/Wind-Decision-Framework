@@ -133,13 +133,6 @@ nuvem (por exemplo, notebooks).
 
 ---
 
-##  Licença
-
-Este produto é disponibilizado sob licença **MIT**, permitindo uso acadêmico,
-institucional e adaptações, desde que mantida a atribuição de autoria.
-
----
-
 ##  Referência
 
 Se este produto for utilizado em trabalhos acadêmicos, recomenda-se citar a
