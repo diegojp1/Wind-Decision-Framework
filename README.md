@@ -46,37 +46,6 @@ O produto é estruturado de forma modular e orientada a pipeline, contemplando:
 
 ---
 
-##  Estrutura do Repositório
-
-wind-decision-framework/
-│
-├── docs/ # Documentação do produto
-│ ├── manual_produto.pdf
-│ ├── fluxograma_pipeline.png
-│ └── requisitos_computacionais.md
-│
-├── data/ # Estrutura de dados (não inclui datasets pesados)
-│ ├── raw/
-│ ├── processed/
-│ └── README.md
-│
-├── sig_ahp/ # Módulo de análise multicritério espacial
-│
-├── data_preparation/ # Aquisição e preparação de dados ambientais
-│
-├── wind_prediction/ # Modelagem preditiva do vento (RNAs)
-│
-├── decision_support/ # Integração e apoio à decisão
-│
-├── examples/ # Exemplos de execução do pipeline
-│
-├── environment.yml # Ambiente Conda
-├── requirements.txt # Dependências Python
-└── LICENSE
-
-
----
-
 ## Reprodutibilidade
 
 O produto foi desenvolvido segundo princípios de **reprodutibilidade e transparência
